@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dynamsoft-camera-enhancer": "^4.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
